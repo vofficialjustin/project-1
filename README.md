@@ -1,2 +1,2 @@
 # project-1
-First Odin Project
+This will be my first ever project and we will see how it goes
